@@ -1,2 +1,2 @@
 # Rocnikova-prace
-[preview]()
+[preview](https://kicjousek.github.io/Rocnikova-prace/)
